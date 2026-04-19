@@ -1,0 +1,30 @@
+
+C:\aivenu\mastermind-ai\mastermind-ai>export GROQ_API_KEY='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'
+'export' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\aivenu\mastermind-ai\mastermind-ai>set GROQ_API_KEY='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'
+
+C:\aivenu\mastermind-ai\mastermind-ai>python mastermind-cli.py repl
+
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║              💎 MASTERMIND AI - ULTIMATE EDITION 💎                  ║
+║                                                                      ║
+║  Provider:         GROQ          Model: llama-3.3-70b-versatile        ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+
+💡 Commands: /gen | /analyze | /code | /project | /models | /help | /exit
+
+
+💎 You: /gen trending news in global top 5
+
+
+╭────────────────────────────────────────────────── 💎 Mastermind AI ──────────────────────────────────────────────────╮
+│                                                                                                                      │
+│  ❌ Groq error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code':  │
+│  'invalid_api_key'}}                                                                                                 │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
